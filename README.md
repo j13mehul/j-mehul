@@ -33,7 +33,7 @@
 ✨ Reinforcement learning
 ✨ NLP
 ✨ Data analytics and Business Intelligence 
-✨ Deployment & Productionisation
+✨ MLOps
 
 
 ### 💡Tech stack:
