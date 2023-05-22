@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/i-mehul-jain/"><img src="./linkedin.png" style="width:26px;height:26px;"></a>
 
 ### 💡 Languages and Tools:
-
+<br></br>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" style="padding-right:10px;" />
 <img align="left" alt="PySpark" width="50px" src="./Apache_Spark_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="PyTorch" width="75px" src="./Pytorch_logo.png" style="padding:15px 10px 0px 0px;" />
@@ -23,11 +23,10 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<br>
-</br>
+<br></br>
 
 ### 💡 I have working expertise on:
+<br></br>
 ⚙️ Machine learning 
 ⚙️ Deep learning 
 ⚙️ Recommendation engine 
@@ -39,7 +38,7 @@
 </br>
 
 ### 💡Tech Stack I explored:
-
+<br></br>
 📌 <b>Languages/Frameworks:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL, Beautiful Soup, Scrapy.
 
 📌 <b>Architectures:</b> Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs, LLMs (ChatGPT, BARD), Neural collaborative filtering.
