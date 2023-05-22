@@ -29,20 +29,23 @@
 <br />
 
 ### 💡 I have Working expertise on:
-- ✨ Machine learning 
-- ✨ Deep leaning 
-- ✨ Recommendation engine 
-- ✨ Reinforcement learning
-- ✨ NLP
-- ✨ Data analytics and Business Intelligence 
-- ✨ Deployment & Productionisation
+✨ Machine learning 
+✨ Deep leaning 
+✨ Recommendation engine 
+✨ Reinforcement learning
+✨ NLP
+✨ Data analytics and Business Intelligence 
+✨ Deployment & Productionisation
+
+<br />
+<br />
 
 ### 💡Tech stack:
 
-- 📌 Languages/Frameworks : HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL.
+📌 Languages/Frameworks : HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL.
 
-- 📌 Architectures: Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs.
+📌 Architectures: Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs.
 
-- 📌 ML Algos: Regression Linear Lasso, Ridge, Elastic-net Regression, logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, SVM), Unsupervised (K-means, GMM, LSA, PCA, t-SNE), Neural networks.
+📌 ML Algos: Regression Linear Lasso, Ridge, Elastic-net Regression, logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, SVM), Unsupervised (K-means, GMM, LSA, PCA, t-SNE), Neural networks.
 
-- 📌 Deployment: Sklearn Pipeline, Flask, Git, MLFlow, GitHub action, Docker, AWS Sagemaker, Azure databricks
+📌 Deployment: Sklearn Pipeline, Flask, Git, MLFlow, GitHub action, Docker, AWS Sagemaker, Azure databricks
