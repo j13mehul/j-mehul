@@ -1,6 +1,4 @@
 # Hi there, I'm Mehul Jain 👋 
-<br>
-</br>
 
 ## I'm a Data scientist, and I like to expore new tech!!
 <br>
@@ -10,15 +8,9 @@
 - 👯 I have worked on various domains and implemented State of the Art models using ML and DL
 - ⚡ Fun fact: I love to draw, play video games, go for a Hike  
 
-<br>
-</br>
 ### Connect with me:
-
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/i-mehul-jain/"><img src="./linkedin.png" style="width:26px;height:26px;"></a>
-
-<br>
-</br>
 
 ### 💡 Languages and Tools:
 
