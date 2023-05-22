@@ -9,9 +9,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/i-mehul-jain/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/i-mehul-jain/#gh-dark-mode-only)
-
+[![website](./linkedin.png)](https://www.linkedin.com/in/i-mehul-jain/)
 
 ### Languages and Tools:
 
