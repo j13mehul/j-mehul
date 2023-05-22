@@ -9,7 +9,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./linkedin.png)](https://www.linkedin.com/in/i-mehul-jain/)
+<a href="[link address](https://www.linkedin.com/in/i-mehul-jain/)"><img src="./linkedin.png"></a>
 
 ### Languages and Tools:
 
