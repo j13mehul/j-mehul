@@ -6,9 +6,6 @@
 - 🧑‍💻 I have worked on various domains and implemented State of the Art models using ML and DL.
 - 😉 Fun Fact: I love to draw, play video games, go for a Hike.  
 
-## Connect with me:
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/i-mehul-jain/"><img src="./linkedin.png" style="width:26px;height:26px;"></a>
 ## 💡 I have working expertise on:
 ⚙️ Machine learning 
 ⚙️ Deep learning 
@@ -41,3 +38,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <br></br>
+
+## Connect with me:
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/i-mehul-jain/"><img src="./linkedin.png" style="width:30px;height:30px;"></a>
