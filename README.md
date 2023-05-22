@@ -14,8 +14,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" style="padding-right:10px;" />
-<img align="left" alt="PySpark" width="30px" src="./Apache_Spark_logo.svg" style="padding-right:10px;" />
-<img align="left" alt="PyTorch" width="30px" src="./Pytorch_logo.png" style="padding-right:10px;" />
+<img align="left" alt="PySpark" width="40px" src="./Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="PyTorch" width="40px" src="./Pytorch_logo.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
