@@ -31,21 +31,13 @@
 
 ### 💡 I have Working expertise on:
 ✨ Machine learning 
-
 ✨ Deep learning 
-
 ✨ Recommendation engine 
-
 ✨ Reinforcement learning
-
 ✨ NLP
-
 ✨ Data analytics and Business Intelligence 
-
 ✨ Deployment & Productionisation
 
-<br />
-<br />
 
 ### 💡Tech stack:
 
