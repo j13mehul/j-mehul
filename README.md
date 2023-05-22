@@ -2,9 +2,9 @@
 
 ## I'm a Data scientist, and I like to expore new tech!!
 
-- 🌱 I’m currently learning LLMs and RL
-- 👯 I have worked on various domains and implemented State of the Art models using ML and DL
-- ⚡ Fun fact: I love to draw, play video games, go for a Hike  
+- 🌱 I’m currently learning LLMs and RL.
+- 🧑‍💻 I have worked on various domains and implemented State of the Art models using ML and DL.
+- 😉 Fun Fact: I love to draw, play video games, go for a Hike.  
 
 ## Connect with me:
 &nbsp;&nbsp;
