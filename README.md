@@ -8,10 +8,10 @@
 - 👯 I have worked on various domains and implemented State of the Art models using ML and DL
 - ⚡ Fun fact: I love to draw, play video games, go for a Hike  
 
-### Connect with me:
+## Connect with me:
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/i-mehul-jain/"><img src="./linkedin.png" style="width:26px;height:26px;"></a>
-### 💡 I have working expertise on:
+## 💡 I have working expertise on:
 ⚙️ Machine learning 
 ⚙️ Deep learning 
 ⚙️ Recommendation engine 
@@ -22,7 +22,7 @@
 <br>
 </br>
 
-### 💡Tech Stack I explored:
+## 💡Tech Stack I explored:
 
 📌 <b>Languages/Frameworks:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL, Beautiful Soup, Scrapy.
 
@@ -32,7 +32,7 @@
 
 📌 <b>Deployment:</b> Sklearn Pipeline, Flask, Git, MLFlow, GitHub action, Docker, AWS Sagemaker, Azure databricks.
 
-### 💡 Languages and Tools:
+## 💡 Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" style="padding-right:10px;" />
 <img align="left" alt="PySpark" width="50px" src="./Apache_Spark_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="PyTorch" width="75px" src="./Pytorch_logo.png" style="padding:15px 10px 0px 0px;" />
