@@ -22,7 +22,7 @@
 
 ## 💡Tech Stack I explored:
 
-📌 <b>Languages/Frameworks:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL, Beautiful Soup, Scrapy.
+📌 <b>Frameworks/Libraries:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, BeautifulSoup, Scrapy, Pandas, Numpy.
 
 📌 <b>Architectures:</b> Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs, LLMs (ChatGPT, BARD), Neural collaborative filtering.
 
