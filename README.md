@@ -38,10 +38,10 @@
 
 ### 💡Tech Stack I explored:
 
-📌 <b>Languages/Frameworks:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL.
+📌 <b>Languages/Frameworks:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL, Beautiful Soup, Scrapy.
 
-📌 <b>Architectures:</b> Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs.
+📌 <b>Architectures:</b> Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs, LLMs (ChatGPT, BARD), Neural collaborative filtering.
 
 📌 <b>ML Algos:</b> Regression Linear Lasso, Ridge, Elastic-net Regression, logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, SVM), Unsupervised (K-means, GMM, LSA, PCA, t-SNE), Neural networks.
 
-📌 <b>Deployment:</b> Sklearn Pipeline, Flask, Git, MLFlow, GitHub action, Docker, AWS Sagemaker, Azure databricks
+📌 <b>Deployment:</b> Sklearn Pipeline, Flask, Git, MLFlow, GitHub action, Docker, AWS Sagemaker, Azure databricks.
