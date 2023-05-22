@@ -26,7 +26,7 @@
 <br />
 <br />
 
-### 💡 I have Working expertise on:
+### 💡 I have working expertise on:
 ✨ Machine learning 
 ✨ Deep learning 
 ✨ Recommendation engine 
@@ -36,7 +36,7 @@
 ✨ MLOps
 
 
-### 💡Tech stack:
+### 💡Tech Stack I explored:
 
 📌 <b>Languages/Frameworks:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, Pandas, Numpy, SQL.
 
