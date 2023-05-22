@@ -1,8 +1,6 @@
 # Hi there, I'm Mehul Jain 👋 
 
 ## I'm a Data scientist, and I like to expore new tech!!
-<br>
-</br>
 
 - 🌱 I’m currently learning LLMs and RL
 - 👯 I have worked on various domains and implemented State of the Art models using ML and DL
