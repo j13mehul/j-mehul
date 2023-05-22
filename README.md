@@ -28,13 +28,13 @@
 </br>
 
 ### 💡 I have working expertise on:
-✨ Machine learning 
-✨ Deep learning 
-✨ Recommendation engine 
-✨ Reinforcement learning
-✨ NLP
-✨ Data analytics and Business Intelligence 
-✨ MLOps
+⚙️ Machine learning <br></br>
+⚙️ Deep learning <br></br>
+⚙️ Recommendation engine <br></br>
+⚙️ Reinforcement learning<br></br>
+⚙️ NLP<br></br>
+⚙️ Data analytics and Business Intelligence <br></br>
+⚙️ MLOps<br></br>
 <br>
 </br>
 
