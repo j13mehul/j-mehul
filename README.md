@@ -21,7 +21,7 @@
 
 📌 <b>Frameworks/Libraries:</b> HuggingFace, Scikit learn, NLTK, SpaCy, StandardNLP, TextBlob, BeautifulSoup, Scrapy, Pandas, Numpy.
 
-📌 <b>Architectures:</b> Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs, LLMs (ChatGPT, BARD), Neural collaborative filtering.
+📌 <b>Architectures:</b> Embedding (word2vec, Elmo, Glove), transformers, BERT, Attention model, Transfer learning, LSTM, CNN, RNN, LLMs, LLMs (ChatGPT, BARD), Neural collaborative filtering, PU learning, Active learning.
 
 📌 <b>ML Algos:</b> Regression Linear Lasso, Ridge, Elastic-net Regression, logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, SVM), Unsupervised (K-means, GMM, LSA, PCA, t-SNE), Neural networks.
 
