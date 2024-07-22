@@ -42,4 +42,4 @@
 
 ## Connect with me:
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/i-mehul-jain/"><img src="./linkedin.png" style="width:30px;height:30px;"></a>
+<a href="https://www.linkedin.com/in/j13mehul/"><img src="./linkedin.png" style="width:30px;height:30px;"></a>
